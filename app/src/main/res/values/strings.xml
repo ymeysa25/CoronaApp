@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KEEPHEALTHY</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+
+    <string name="name_provinsi">Nama Provinsi</string>
+    <string name="total_kasus">Total Kasus : </string>
+    <string name="text_death">Meninggal   : </string>
+    <string name="text_recoveries">Sembuh   : </string>
+</resources>
